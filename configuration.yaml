@@ -1,0 +1,7 @@
+mqtt:
+  host: "192.168.2.144:1883"
+  username: homeautomation
+  password: homeautomation
+
+interval: 30
+
